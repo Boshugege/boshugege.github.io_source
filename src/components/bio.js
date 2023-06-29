@@ -50,8 +50,17 @@ const Bio = () => {
         </p>
       )}
             <div>
-        <a href="../rss.xml">rss</a>
-        <br></br>
+        <a href="../rss.xml">
+        <StaticImage
+        layout="fixed"
+        formats={["auto", "webp", "avif"]}
+        src="../images/rss.png"
+        width={30}
+        height={30}
+        quality={95}
+        alt="Profile picture"
+      />
+      </a>
         <a href="mailto://boshugegewu@outlook.com">Email</a>
       </div>
     </div>
