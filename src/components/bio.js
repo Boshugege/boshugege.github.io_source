@@ -58,7 +58,7 @@ const Bio = () => {
         width={30}
         height={30}
         quality={95}
-        alt="Profile picture"
+        alt="RSS"
       />
       </a>
         <a href="mailto://boshugegewu@outlook.com">Email</a>
