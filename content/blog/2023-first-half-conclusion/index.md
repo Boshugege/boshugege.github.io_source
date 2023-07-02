@@ -3,6 +3,16 @@ title: 2023 上半年总结
 date: "2023-06-29"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P8BK01ELC3');
+</script>
+
 这半年，这个学期，好漫长但是又好短暂。感觉好多事情似乎是很久之前发生的，仔细一想还是在这半年……既然忙里偷闲，那就大概为这半年做一个总结吧。
 
 ### 学习

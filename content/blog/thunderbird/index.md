@@ -3,6 +3,16 @@ title: 使用 Thunderbird 生活：Email, RSS, IRC
 date: "2023-04-02"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P8BK01ELC3');
+</script>
+
 一直没有为这个博客专门写什么文章，或许现在有空可以码一篇？
 
 Mozilla 公司在 Firefox 之外，开发的另一个著名软件 Thunderbird，带给我们一个在即时通讯软件（IM）横行的时代，一个更为古老的生活方式。或许它不能完全替代现代的需求，但是我们可以在这里找到自己的归宿。

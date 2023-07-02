@@ -3,6 +3,16 @@ title: 关于情商的一点想法
 date: "2023-03-21"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P8BK01ELC3');
+</script>
+
 私以为，人的情商分两部分，一部分可以用对外界的敏感程度（sensitivity）来表示，体现为自己情绪变化的强烈程度，在此简称作内部的（internal）；第二部分是共情能力，即对他人在某事后的情绪变化的预见能力和理解程度，在此称作外部的（external）。
 
 一般来说，内部情商和外部情商是统一的，更敏感的人倾向于有更强的共情能力，而共情能力更弱的人倾向于不敏感。然而，显而易见地，这并不是绝对的。

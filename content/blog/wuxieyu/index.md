@@ -3,6 +3,16 @@ title: 吴谢宇，从其自述出发
 date: "2023-05-28"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P8BK01ELC3');
+</script>
+
 本文背景：[弑母者吴谢宇的心理档案 | 南方周末](http://www.infzm.com/contents/249640)
 
 一个额外的不辨对错但是 po 在这里的链接：[知乎](https://www.zhihu.com/question/322039124/answer/668294767)。一定程度上小小地代表了我的一点想法，或者是在那么多解释里我偏向的一个

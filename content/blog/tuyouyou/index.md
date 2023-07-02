@@ -3,6 +3,16 @@ title: 一份作业，关于屠呦呦和“三无科学家”
 date: "2022-05-16"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P8BK01ELC3');
+</script>
+
 ### 原题：
 
 瑞典卡罗琳医学院 10 月 5 日宣布，将 2015 年诺贝尔生理学或医学奖授予中国药学家屠呦呦，屠呦呦的获奖理由是「有关疟疾新疗法的发现」。这是中国科学家因为在中国本土进行的科学研究而首次获诺贝尔科学奖，因为没有博士学位、留洋背景和院士头衔，屠呦呦被媒体报道称为「三无」科学家。对此，你有何看法？

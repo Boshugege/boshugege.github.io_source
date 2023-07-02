@@ -3,6 +3,16 @@ title: 20款拯救者刃9000/刃9000k锁频锁功耗问题的原因和解决
 date: "2022-07-30"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P8BK01ELC3');
+</script>
+
 折腾了这么久，终于把这个东西折腾完了……快乐
 
 这两款整机，不管什么配置，从后期出厂开始就一直是 12A 版本的 BIOS，这个版本的 BIOS 会导致 CPU 的功耗被锁在 65W，具体表现就是当 CPU 全核满负载运行的时候，任务管理器内的占用率会始终显示 63% 左右，并且频率锁定在 2.3GHz。i9 变 e5 名不虚传。然而，升级了 BIOS，问题依然存在，而且找不到任何相应的设置项。
