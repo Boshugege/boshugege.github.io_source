@@ -12,7 +12,7 @@ module.exports = {
     title: `拨鼠哥哥的部落格`,
     author: {
       name: `拨鼠哥哥`,
-      summary: `，一个没有专业知识但是什么都知道一点而且想玩一玩看一看的人。`,
+      summary: `，一个没有专业知识但是什么都想知道一点而且想玩一玩看一看的人。`,
     },
     description: `一个什么都想玩玩的人`,
     siteUrl: `https://boshugege.github.io`,
@@ -102,7 +102,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "拨鼠哥哥的部落格",
           },
         ],
       },
@@ -116,7 +116,7 @@ module.exports = {
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
-        // theme_color: `#663399`,
+        theme_color: `#FE4B02`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
