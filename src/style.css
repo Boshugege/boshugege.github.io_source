@@ -200,8 +200,9 @@ blockquote {
   margin-right: var(--spacing-8);
   padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6);
   border-left: var(--spacing-1) solid var(--color-primary);
-  font-size: var(--fontSize-2);
-  font-style: italic;
+  font-size: var(--fontSize-1);
+  font-style: bold;
+  font-family: "Times New Roman","楷体","楷体_GB2312";
   margin-bottom: var(--spacing-8);
 }
 

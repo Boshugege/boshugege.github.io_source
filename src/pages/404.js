@@ -10,7 +10,7 @@ const NotFoundPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <h1>404: Not Found</h1>
-      <p>这或许是一片没有知识的荒原。</p>
+      <p>没插准口子！再来一次。</p>
     </Layout>
   )
 }
