@@ -3,16 +3,6 @@ title: 知识分子的回望——读《中国在梁庄》
 date: "2023-07-05"
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-P8BK01ELC3');
-</script>
-
 这本书给我的第一感受，居然是“为什么我没有时间来做这件事”的可惜。这是知识分子对非虚构的主动意识，对“故乡”概念的再次进入和记录，给正在消亡的乡土中国最后的画像。**中国**在梁庄，梁庄在本身之外，反映着整个中国乡村的处境：它们曾经有自己的居民，自己的历史和故事，但是却逐渐独自腐烂变质直至消失。梁鸿有这个机会，可以给这个角落留下画像，但无数同样的角落早已失去了这个机会。梁鸿即是读者，即是阅读这一本书的每一个知识分子。对于每一个人都有一组与“梁鸿与梁庄”同构的短语。这赋予这本书更宏大的意义，也体现着书名，写梁庄，终究写的是**中国**。
 
 ### 一、改变：梁庄现在的消失

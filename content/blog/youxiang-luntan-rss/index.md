@@ -3,16 +3,6 @@ title: 2022年，我用回了邮箱、论坛和RSS
 date: "2022-05-11"
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-P8BK01ELC3');
-</script>
-
 你知道这三个名词吗？你还记得这三个名词吗？
 
 淹没在信息的海洋里，我们越来越习惯于无需思考的视频和图片。离开网络几分钟，就害怕自己错过了世界各地的新闻、同学同事朋友发来的即时通讯。在触手可得的娱乐中，我们用短视频麻痹自己，从 10 分钟到 3 分钟再到 15 秒，我们注意力能够持续的时间越来越短，纯粹傻笑的欢愉支配着我们的休闲时间。信息越来越多，我们无力选择，只能囫囵吞枣，看完之后忘记所有。在那些充斥自媒体的平台出现之前，在随时发送消息的通讯软件出现之前，我们好像也能获取消息，相互交流。这让我想，现在的平台，必要吗？

@@ -3,16 +3,6 @@ title: 浅谈诸子百家中数家
 date: "2022-11-26"
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-P8BK01ELC3');
-</script>
-
 写在前面：随想，不成文体，无暇整理，主要在其中想法。
 
 ### 儒家

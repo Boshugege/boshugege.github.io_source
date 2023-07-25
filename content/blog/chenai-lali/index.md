@@ -3,16 +3,6 @@ title: 萌新入手尘埃拉力2（DiRT Rally 2.0）小感
 date: "2023-07-03"
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-P8BK01ELC3');
-</script>
-
 本萌新入坑 rac 第一作是什么？~~天天飞车~~
 
 好吧，说实话我一个地平线都要把难度调成初学者才能跑跑比赛的人属实是高估了自己的实力（没手柄的时候可以怪键盘，现在怪没有方向盘？）

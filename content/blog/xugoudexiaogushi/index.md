@@ -3,16 +3,6 @@ title: 虚构的小故事
 date: "2022-12-29"
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-P8BK01ELC3');
-</script>
-
 ### 一
 
 冬夜，小雨。

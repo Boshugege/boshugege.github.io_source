@@ -3,16 +3,6 @@ title: 关于《民主的细节》
 date: "2023-07-02"
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-P8BK01ELC3');
-</script>
-
 是要求的选读书，读完之后还得写个读书报告，那就简单谈谈我自己的感受吧。
 
 手上这本是 2011 年出版的修订版，18 年印的，也不知道有没有删改。对于这种时效性较强的题材来说，确实是很老的书了。这十多年里，中国从胡温到习李再到新的习李，美国则是布什奥巴马特朗普拜登，很多概念和状况都发生了翻天覆地的变化。看这本书也没花我多少时间，大概三个小时左右。很多论点早就在这些年里被反复使用和讨论了。作为对众学生的推荐，我想还是普及性质为主的。

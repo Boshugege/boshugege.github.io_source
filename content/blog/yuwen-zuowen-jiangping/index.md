@@ -4,16 +4,6 @@ date: "2022-05-12"
 description: 一点想法
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-P8BK01ELC3');
-</script>
-
 ### 审题要清晰 
 
 虽然是老生常谈，但在这种作文里的确很重要。审题不仅是要审该写什么，更要搞明白题目背后到底是什么。拿此次作文题《熟悉的陌生人》举例，如果直接审题错误，那么就会写成诸如「陌生的熟人」一类，选材选偏了，到后面硬拉回来就会很生硬。如果未搞清楚题目的内核就匆匆动笔，那么文章只会被限定于鸡毛蒜皮的家庭琐事，没有阐发和思考。是什么让「陌生人」变得「熟悉」？这是一个选材的方向；有一个人，你认为自己原本很熟悉，但发现自己根本不了解他，这是另一个选材的途径。这道题目的内核更在于「我」和所写之人的关系，所以这篇记叙文要写人——写事也是一种审题错误。 

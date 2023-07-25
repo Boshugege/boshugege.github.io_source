@@ -57,6 +57,16 @@ const BlogPostTemplate = ({
           </li>
         </ul>
       </nav>
+      <div>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
+          <script>
+           window.dataLayer = window.dataLayer || [];
+           function gtag()&lbrace;dataLayer.push(arguments);&rbrace;
+            gtag('js', new Date());
+
+           gtag('config', 'G-P8BK01ELC3');
+        </script>
+      </div>
     </Layout>
   )
 }
