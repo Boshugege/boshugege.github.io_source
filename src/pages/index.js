@@ -60,6 +60,16 @@ const BlogIndex = ({ data, location }) => {
       <div class='song'>
         <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DWSBcxmKiZ0B8?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
       </div>
+      <div>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
+          <script>
+           window.dataLayer = window.dataLayer || [];
+           function gtag()&lbrace;dataLayer.push(arguments);&rbrace;
+            gtag('js', new Date());
+
+           gtag('config', 'G-P8BK01ELC3');
+        </script>
+      </div>
     </Layout>
   )
 }
