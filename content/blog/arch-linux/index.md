@@ -1,6 +1,6 @@
 ---
-title: archlinux 简明安装指南【未完成】
-date: "2023-08-13"
+title: archlinux 简明安装指南
+date: "2023-10-14"
 ---
 
 装了很多回`archlinux`，跟了很多遍各种教程和官方 wiki ，也来自己写一个简单的笔记吧。
