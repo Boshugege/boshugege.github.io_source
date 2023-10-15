@@ -10,6 +10,7 @@
   "dependencies": {
     "@fontsource/merriweather": "^4.5.14",
     "@fontsource/montserrat": "^4.5.14",
+    "caniuse-lite": "^1.0.30001549",
     "gatsby": "^5.8.1",
     "gatsby-plugin-feed": "^5.8.0",
     "gatsby-plugin-image": "^3.8.0",
