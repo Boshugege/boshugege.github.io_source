@@ -35,7 +35,7 @@ const Layout = ({ location, title, children }) => {
         </script>
       </div>
       <footer>
-        Under CC BY-SA 4.0，by {new Date().getFullYear()} boshugege. Built with
+        Under CC BY-SA 4.0，by {new Date().getFullYear()} Parity Nonconservation. Built with
         {` `}
         <a href="https://www.gatsbyjs.com">Gatsby</a>
         {` `}

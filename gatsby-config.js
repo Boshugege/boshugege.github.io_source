@@ -9,13 +9,13 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `拨鼠哥哥的部落格`,
+    title: `ParityNonconservation's Blog`,
     author: {
-      name: `拨鼠哥哥`,
-      summary: `，一个没有专业知识但是什么都想知道一点而且想玩一玩看一看的人。`,
+      name: `Parity Nonconservation`,
+      summary: `, a variable person`,
     },
-    description: `一个什么都想玩玩的人`,
-    siteUrl: `https://boshugege.github.io`,
+    description: `a variable person`,
+    siteUrl: `https://parityncsvt.top`,
     social: {
       twitter: ``,
     },
