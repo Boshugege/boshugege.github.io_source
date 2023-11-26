@@ -43,24 +43,25 @@ const Bio = () => {
         alt="Profile Picture"
       />
       {author?.name && (
-        <p>
+        <a href="./about">
           From <strong>{author.name}</strong>
           {` `}
           {author.summary}
-        </p>
+        </a>
       )}
-            <div>
+      <div className="contact">
         <a href="../rss.xml">
-        <StaticImage
-        layout="fixed"
-        formats={["auto", "webp", "avif"]}
-        src="../images/rss.png"
-        width={30}
-        height={30}
-        quality={95}
-        alt="RSS"
-      />
-      </a>
+          <StaticImage
+            layout="fixed"
+            formats={["auto", "webp", "avif"]}
+            src="../images/rss.png"
+            width={30}
+            height={30}
+            quality={95}
+            alt="RSS"
+          />
+        </a>
+
         <a href="mailto://boshugegewu@outlook.com">Email</a>
       </div>
     </div>

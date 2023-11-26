@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `ParityNonconservation's Blog`,
+    title: `PNC's Blog`,
     author: {
       name: `Parity Nonconservation`,
       summary: `, a variable person`,
@@ -17,7 +17,7 @@ module.exports = {
     description: `a variable person`,
     siteUrl: `https://parityncsvt.top`,
     social: {
-      twitter: ``,
+      twitter: `https://twitter.com/ParityNCsvt`,
     },
   },
   plugins: [
@@ -102,7 +102,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "拨鼠哥哥的部落格",
+            title: "Parity Nonconservation's Blog",
           },
         ],
       },
@@ -110,8 +110,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `拨鼠哥哥的部落格`,
-        short_name: `Bsgg`,
+        name: `Parity Nonconservation's Blog`,
+        short_name: `PNC's Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website

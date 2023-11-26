@@ -314,6 +314,10 @@ a:focus {
   margin: var(--spacing-0);
 }
 
+.contact {
+  float: right;
+}
+
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
 }
