@@ -12,7 +12,7 @@ const About = ({ data, location }) => {
             <h1>About</h1>
             <Bio />
             <div>
-                <p>To be edited.</p>
+                <p>其实是为了理解相关知识所以自己从头构建了一个 About 页面……我是一个怎么样的人呢？</p>
             </div>
         </Layout>
     )
