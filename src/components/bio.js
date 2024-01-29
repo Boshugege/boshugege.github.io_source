@@ -43,13 +43,13 @@ const Bio = () => {
         alt="Profile Picture"
       />
       {author?.name && (
-        <a href="./about">
-          From <strong>{author.name}</strong>
+        <p>
+          From <a href="/about">{author.name}</a>
           {` `}
           {author.summary}
-        </a>
+        </p>
       )}
-      <div className="contact">
+      <div className="contact" align="right">
         <a href="../rss.xml">
           <StaticImage
             layout="fixed"

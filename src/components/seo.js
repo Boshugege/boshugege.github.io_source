@@ -43,6 +43,8 @@ const Seo = ({ description, title, children }) => {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
       {children}
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1454757521966402"
+     crossorigin="anonymous"></script>
     </>
   )
 }
