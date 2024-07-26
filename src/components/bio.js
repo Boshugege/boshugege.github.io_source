@@ -62,7 +62,7 @@ const Bio = () => {
           />
         </a>
 
-        <a href="mailto://boshugegewu@outlook.com">Email</a>
+        <a href="mailto://admin@parityncsvt.top">Email</a>
       </div>
     </div>
   )

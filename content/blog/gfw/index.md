@@ -3,16 +3,6 @@ title: 科普：有关 GFW ，即通常所说的「墙」的一些事
 date: "2022-05-26"
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8BK01ELC3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-P8BK01ELC3');
-</script>
-
 这个应该算是一个比较敏感的话题，所以我先声明一下几点内容：在这篇文章里，我不会提及任何关于突破内容审查机制的关键词，如果为了技术一定要提及，我会只留首字母，不介绍、传播、扩散任何关于突破内容审查机制的工具。任何技术探究均在个人局域网中完成，使用的信道均为国家网络运营商提供的合法有效的信道。
 
 我写这一篇的目的，是为了科普 GFW 的相关知识，并澄清大家通常关于 VPN 技术的误解，同时探讨一些网络方面的技术知识。

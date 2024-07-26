@@ -1,0 +1,3 @@
+const canonicalUrl = data.site.siteMetadata.siteURL + location.pathname
+const siteTitle = site.siteMetadata?.title || `Title`
+https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url={canonicalUrl}&sharesource=qzone&title={siteTitle}&pics=https://parityncsvt.top/images/profile-pic.png&summary=PNC小站的文章
